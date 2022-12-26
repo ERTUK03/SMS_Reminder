@@ -7,4 +7,4 @@ that database and if the date specified is exactly 1 day away from current date 
 it sends a message with some text.
 
 To work with Azure it needs Docker.
-SMS sending works thanks to pTwilio](https://www.twilio.com/).
+SMS sending works thanks to [Twilio](https://www.twilio.com/).
